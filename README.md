@@ -1,1 +1,3 @@
-# Simple Notes App made using Django Rest Framework + React.JS
+# Simple Notes App made 
+
+using Django Rest Framework + React.JS
